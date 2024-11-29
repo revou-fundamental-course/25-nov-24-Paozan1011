@@ -1,0 +1,81 @@
+/* Ini File CSS */
+  
+.main-header {
+    text-align: center;
+}
+
+main {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.main-section {
+    width: 40%;
+}
+
+footer {
+    text-align: center;
+}
+
+form {
+    background-color: rgb(252, 143, 0);
+    padding: 17px;
+    border-radius: 9px;
+
+}
+
+.form-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type="number"] {
+    width: 100;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1pxs solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-button-container{
+    margin-top: 32px;
+}
+
+button{
+    border: 0;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: #bada55;
+}
+
+.bg-cadet-blue {
+    background-color: cadetblue;
+}
+
+.bg-alice-blue {
+    background-color: aliceblue;
+}
+
+.color-antique-white {
+    color: antiquewhite;
+}
+
+.main-header {
+    text-align: center;
+}
+
+.main-position{
+    background: antiquewhite;
+    height: 300px;
+}
+
+.main-p{
+    text-align: center;
+
+}
+
+.result-calculation{
+    text-emphasis: none;
+}
